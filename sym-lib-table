@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DE10_SRAM_expansion)(type Legacy)(uri /home/chris/SRAM_board/KiCad/lib_sch/DE10_SRAM_expansion.lib)(options "")(descr ""))
+  (lib (name SRAM_board-rescue)(type Legacy)(uri ${KIPRJMOD}/SRAM_board-rescue.lib)(options "")(descr ""))
+)
