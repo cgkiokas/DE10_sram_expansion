@@ -10,3 +10,4 @@ Developed to accompany a DE-10 Nano board as a drone flight controller, using [T
 * FTDI for UART output
 * 7 GPIO Pins
   
+![Alt text](images/SRAM_board.jpg?raw=true "Title")
