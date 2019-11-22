@@ -1,4 +1,4 @@
-16337861089786674
+16339435522632674
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42727,6 +42727,13 @@ PQFP QFP
 0
 100
 100
+DE10_SRAM_board
+SOIC-8
+
+
+0
+8
+8
 DE10_SRAM_board
 Screw_Terminal_1x06_2.54'_pitch
 
