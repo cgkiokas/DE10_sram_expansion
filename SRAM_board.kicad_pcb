@@ -10,6 +10,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "DE10 Nano SRAM expansion")
+    (rev A)
+    (company "DTU Compute")
+    (comment 1 "Christos Gkiokas")
+  )
+
   (layers
     (0 F.Cu signal)
     (1 In1.Cu signal)
@@ -36,7 +43,7 @@
   )
 
   (setup
-    (last_trace_width 0.1524)
+    (last_trace_width 0.25)
     (user_trace_width 0.0889)
     (user_trace_width 0.1524)
     (user_trace_width 0.254)
@@ -7108,7 +7115,7 @@
   (segment (start 23.495 -11.2014) (end 25.7667 -11.2014) (width 0.29337) (layer F.Cu) (net 162) (status 20))
   (segment (start 22.7024 -10.4088) (end 23.495 -11.2014) (width 0.29337) (layer F.Cu) (net 162))
 
-  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5DD7D6D2) (hatch edge 0.508)
+  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5DDF99C0) (hatch edge 0.508)
     (connect_pads (clearance 0.254))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.254) (thermal_bridge_width 0.508))
@@ -8646,7 +8653,7 @@
       )
     )
   )
-  (zone (net 3) (net_name +5V) (layer F.Cu) (tstamp 5DD7D6CF) (hatch edge 0.508)
+  (zone (net 3) (net_name +5V) (layer F.Cu) (tstamp 5DDF99BD) (hatch edge 0.508)
     (connect_pads (clearance 0.254))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.762))
@@ -8879,7 +8886,7 @@
       )
     )
   )
-  (zone (net 1) (net_name +3V3) (layer F.Cu) (tstamp 5DD7D6CC) (hatch edge 0.508)
+  (zone (net 1) (net_name +3V3) (layer F.Cu) (tstamp 5DDF99BA) (hatch edge 0.508)
     (connect_pads (clearance 0.254))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.254) (thermal_bridge_width 0.508))
