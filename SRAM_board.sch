@@ -3085,13 +3085,13 @@ Text Label 19450 2650 0    50   ~ 0
 ~BA
 Text Label 19500 2350 0    50   ~ 0
 ~E3
-Text Label 19500 2250 0    50   ~ 0
+Text Label 19500 1850 0    50   ~ 0
 CLK_IN
 Text Label 19500 2150 0    50   ~ 0
 ~G
-Text Label 19500 2050 0    50   ~ 0
+Text Label 19500 2250 0    50   ~ 0
 ~ADSP
-Text Label 19500 1850 0    50   ~ 0
+Text Label 19500 2050 0    50   ~ 0
 ~BW
 Text Label 19500 1750 0    50   ~ 0
 ~GW
